@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in:
   - Python, Automation, Productivity 
-  - Generative art, Processing, Art, Photography, Processing
+  - Generative art, Processing, Photography
   - Computer vision
   - Collaborating and solving practical and creative problems
   
