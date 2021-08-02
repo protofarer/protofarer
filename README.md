@@ -1,13 +1,12 @@
 👋
 - 👀 I’m interested in:
-  - Blogging, Web Development
+  - Blogging, Design
   - Generative art, Photography
-  - 
   
 - 🌱 I’m currently learning:
-    - HTML, CSS, Javascript, Python
+    - Web Development, Javascript, Node, Python
     - React, Git 
-    - Linux 
+    - Linux, self-hosting,  
   
 - 💞️ I’m looking to collaborate on:
   - TBD
