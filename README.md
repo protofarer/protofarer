@@ -1,33 +1,17 @@
-- 👋 Hi, I’m @protofarer
-
+👋
 - 👀 I’m interested in:
-  - Open source, Recursion
-  - Game dev, Procedural design
-  - Blogging, Web design, Digital gardens
-  - Generative art, Photography, Perception, Illusions
-  - Collaborating and building productively and creatively
+  - Blogging, Web Development
+  - Generative art, Photography
+  - 
   
 - 🌱 I’m currently learning:
-  - Web Development
-    - HTML, CSS, Javascript, 
-    - ... Typescript, React, 
-  - Computer Science
-    - C, Algorithms, Data structures, 
-  - Dev
-    - Git
-    - ... design patterns, 
-  - Programming
-    - Python
-      - General fluency, sysadmin, exploring libraries, 
-  - Linux
-    - Bash, Ubuntu, Debian, 
+    - HTML, CSS, Javascript, Python
+    - React, Git 
+    - Linux 
   
 - 💞️ I’m looking to collaborate on:
-  - Ecosystem sims
-  - Websites
-  - Games
-  - Projects that involve procedural systems, computer vision, photo manipulation, biofeedback, esoteria, 
-  
+  - TBD
+
 - 📫 How to reach me:
   - Here (for now)
 <!---
