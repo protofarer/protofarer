@@ -1,12 +1,12 @@
-8. Learning web development (mongo/graphQL/redux/express/react/react-native/node/typescript)
-7. Switched to Linux
-6. Went on a 3 week road trip
-5. Freelanced as portrait and event photographer
-4. Taught at a youth development non-profit in photography
-3. Snowboarded in Japan
-2. Employed in aircraft logistics
-1. Studied aerospace engineering
-0. Gaming on PC since '97
+8 - Learning web development (mongo/graphQL/redux/express/react/react-native/node/typescript)
+7 - Switched to Linux
+6 - Went on a 3 week road trip
+5 - Freelanced as portrait and event photographer
+4 - Taught at a youth development non-profit in photography
+3 - Snowboarded in Japan
+2 - Employed in aircraft logistics
+1 - Studied aerospace engineering
+0 - Gaming on PC since '97
 
 - 💡 I’m interested in:
   - UX, design
