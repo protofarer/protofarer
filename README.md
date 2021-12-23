@@ -9,7 +9,7 @@
 0 - Gaming on PC since '97
 
 - 💡 I’m interested in:
-  - UX, design
+  - UX, interactive design
   - genart, photography
   - linux, open source
   - gamedev
@@ -18,12 +18,12 @@
   - Web Development, Web Design, Node
   - React, GraphQL
   - C, bash scripting
-  - HTML canvas
+  - HTML canvas / 2D gamedev
   
 - 🌐 I’m looking to collaborate on:
   - web apps
-  - gamedev
-  - computer visual art
+  - games
+  - visual art
   - crypto gaming
 
 <!--- 📡 How to reach me:
