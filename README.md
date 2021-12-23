@@ -1,7 +1,7 @@
 8 - Learning web development (mongo/graphQL/redux/express/react/react-native/node/typescript) <br>
-7 - Switched to Linux <br>
-6 - Went on a 3 week road trip <br>
-5 - Freelanced as portrait and event photographer <br>
+7 - Discovered to Linux and OSS <br>
+6 - Went on a 3 week solo road trip <br>
+5 - Freelanced portrait and event photography <br>
 4 - Taught at a youth development non-profit in photography <br>
 3 - Snowboarded in Japan <br>
 2 - Employed in aircraft logistics <br>
@@ -21,10 +21,9 @@
   - HTML canvas / 2D gamedev
   
 - 🌐 I’m looking to collaborate on:
-  - web apps
+  - simple web apps
   - games
   - visual art
-  - crypto gaming
 
 <!--- 📡 How to reach me:
   - TBD
