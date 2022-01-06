@@ -1,12 +1,13 @@
-8 - Learning web development (mongo/graphQL/redux/express/react/react-native/node/typescript) <br>
-7 - Discovered to Linux and OSS <br>
-6 - Went on a 3 week solo road trip <br>
-5 - Freelanced portrait and event photography <br>
-4 - Taught at a youth development non-profit in photography <br>
-3 - Snowboarded in Japan <br>
-2 - Employed in aircraft logistics <br>
-1 - Studied aerospace engineering <br>
-0 - Gaming on PC since '97
+9 - Practicing web development (mongodb/postgreSQL/graphQL/apollo, express, react/react-native/redux, node, ES6+/typescript, HTML canvas) <br>
+8 - Discovered Linux and OSS <br>
+7 - Went on 3 week solo road trip <br>
+6 - Freelanced portrait and event photography <br>
+5 - Taught at a youth development non-profit in photography <br>
+4 - Snowboarded in Japan <br>
+3 - Employed in aircraft logistics <br>
+2 - Studied aerospace engineering <br>
+1 - Joined Mu Alpha Theta
+0 - Gaming on PC since '97 / Console since '91
 
 - 💡 I’m interested in:
   - UX, interactive design
@@ -17,11 +18,11 @@
 - ⏫ I’m currently learning:
   - Web Development, Web Design, Node
   - React, GraphQL
-  - C, bash scripting
+  - Python, Data viz, system scripting
   - HTML canvas / 2D gamedev
   
-- 🌐 I’m looking to collaborate on:
-  - simple web apps
+- 🌐 I’m looking to contribute and collaborate on:
+  - web apps: civic, games, e-commerce
   - games
   - visual art
 
