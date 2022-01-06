@@ -6,7 +6,7 @@
 4 - Snowboarded in Japan <br>
 3 - Employed in aircraft logistics <br>
 2 - Studied aerospace engineering <br>
-1 - Joined Mu Alpha Theta
+1 - Joined Mu Alpha Theta <br>
 0 - Gaming on PC since '97 / Console since '91
 
 - 💡 I’m interested in:
