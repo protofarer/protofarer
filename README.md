@@ -1,4 +1,4 @@
-10 - Learning Devops and Remix
+10 - Learning Devops and Remix <br>
 9  - Building Webapps (mongodb/postgreSQL/graphQL/apollo, express, react/react-native/redux, node, ES6+/typescript, HTML canvas) <br>
 8  - Discovered Linux and OSS <br>
 7  - Went on 3 week solo road trip <br>
