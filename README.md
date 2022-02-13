@@ -1,7 +1,12 @@
 now - Learning Remix, PostgreSQL, Docker, CI/CD, Typescript, Security, Shell scripting
+
 now - Setting up CI/CD for personal website (docker, docker-compose, vscode dev containers, github actions, watchtower) <br>
+
 now - Setting up host (docker networked containers, local nginx, logging, monitoring, security)
+
 now - Building personal website (postgreSQL, express, react, node, typescript, remix) <br>
+
+9 - Decided to pursue programming, web development, statistics, UNIX networking
 8  - Discovered Linux and OSS <br>
 7  - Went on 3 week solo road trip <br>
 6  - Freelanced portrait and event photography <br>
