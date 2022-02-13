@@ -6,7 +6,7 @@ now - Setting up host (docker networked containers, local nginx, logging, monito
 
 now - Building personal website (postgreSQL, express, react, node, typescript, remix) <br>
 
-9 - Decided to pursue programming, web development, statistics, UNIX networking
+9 - Decided to pursue programming, web development, statistics, UNIX networking <br>
 8  - Discovered Linux and OSS <br>
 7  - Went on 3 week solo road trip <br>
 6  - Freelanced portrait and event photography <br>
