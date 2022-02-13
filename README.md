@@ -1,5 +1,5 @@
 10 - Learning Devops and Remix <br>
-9  - Building Webapps (mongodb/postgreSQL/graphQL/apollo, express, react/react-native/redux, node, ES6+/typescript, HTML canvas) <br>
+9  - Building Webapps (postgreSQL, express, react, node, typescript, remix, docker, containered CICD) <br>
 8  - Discovered Linux and OSS <br>
 7  - Went on 3 week solo road trip <br>
 6  - Freelanced portrait and event photography <br>
