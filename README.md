@@ -1,4 +1,4 @@
-now - Learning Remix, PostgreSQL, Docker, CI/CD, Typescript, Shell scripts
+now - Learning Remix, PostgreSQL, Docker, CI/CD, Typescript, shell scripting
 
 now - Setting up CI/CD for personal website (docker, docker-compose, vscode dev containers, github actions, watchtower) <br>
 
