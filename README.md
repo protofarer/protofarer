@@ -26,8 +26,8 @@ now - Building personal website (postgreSQL, express, react, node, typescript, r
 - ⏫ I’m currently learning:
   - Web Development, Web Design, Node
   - React, GraphQL
-  - Python, Data viz, system scripting
-  - HTML canvas / 2D gamedev
+  - Python and data applications via MIT courseware
+  - HTML canvas / 2D gamedev via making games
   
 - 🌐 I’m looking to contribute and collaborate on:
   - web apps: civic, games, e-commerce
