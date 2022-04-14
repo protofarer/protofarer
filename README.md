@@ -1,10 +1,8 @@
-now - Learning Remix, PostgreSQL, Docker, CI/CD, Typescript, shell scripting
+now - Learning Remix, PostgreSQL, Docker, CICD, Typescript
 
-now - Setting up CI/CD for personal website (docker, docker-compose, vscode dev containers, github actions, watchtower) <br>
+now - Securing and deploying personal website <br>
 
-now - Setting up host (docker networked containers, local nginx, logging, monitoring, security)
-
-now - Building personal website (postgreSQL, express, react, node, typescript, remix) <br>
+now - Building personal website <br>
 
 9 - Pursuing web development, statistics, design, UNIX <br>
 8  - Stumbled into Linux, OSS, FOSS, and FLOSS <br>
