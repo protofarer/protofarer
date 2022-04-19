@@ -20,10 +20,9 @@ now - Learning Remix, PostgreSQL, Docker, CICD, Typescript <br>
   - photography
   
 - ⏫ I’m currently learning:
-  - Web Development, Web Design, Node
-  - React, GraphQL
-  - Computer Science via MIT courseware
-  - Gamedev via HTML5 / phaser
+  - Web Development, Web Design, Node, Javascript
+  - Computer Science
+  - HTML5 / phaser for gamedev and app interactivity
 
 <!---
 protofarer/protofarer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
