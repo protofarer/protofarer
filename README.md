@@ -1,8 +1,6 @@
-now - Securing a website <br>
+now - Making and securing websites <br>
 
-now - Learning Remix, PostgreSQL, Docker, CICD, Typescript
-
-now - Building personal website <br>
+now - Learning Remix, PostgreSQL, Docker, CICD, Typescript <br>
 
 9 - Pursuing web development, statistics, design, UNIX <br>
 8 - Stumbled into Linux, OSS, FOSS, and FLOSS <br>
