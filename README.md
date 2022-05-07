@@ -1,6 +1,8 @@
+now - Making simple multiplayer game clones with HTML canvas and websockets
+
 now - Making and securing websites <br>
 
-now - Learning Remix, PostgreSQL, Docker, CICD, Typescript <br>
+now - Learning Remix, PostgreSQL, Typescript, threejs <br>
 
 9 - Pursuing web development, statistics, design, UNIX <br>
 8 - Stumbled into Linux, OSS, FOSS, and FLOSS <br>
