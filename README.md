@@ -1,14 +1,16 @@
-now - Making simple multiplayer game clones with HTML canvas and websockets
+now - Making online multiplayer board game
 
-now - Making and securing websites <br>
+now - Making website admin dashboard <br>
 
-now - Learning Remix, PostgreSQL, Typescript, threejs <br>
+now - Streamlining tools and workflow
 
-9 - Pursuing web development, statistics, design, UNIX <br>
+now - Building with React, HTML Canvas, Remix, JS, Typescript <br>
+
+9 - Pursuing web development, prgramming, design <br>
 8 - Stumbled into Linux, OSS, FOSS, and FLOSS <br>
 7 - Went on 3 week solo road trip <br>
 6 - Freelanced portrait and event photography <br>
-5 - Taught at a youth development non-profit in photography <br>
+5 - Taught at a youth development non-profit photography program <br>
 4 - Snowboarded in Japan <br>
 3 - Employed in air vehicle logistics <br>
 2 - Graduated with degree in aerospace engineering <br>
