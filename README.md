@@ -1,14 +1,15 @@
-now - Making online multiplayer board game
+now - Making chat server and online games using remix, react, supabase <br>
 
-now - Making website admin dashboard <br>
+now - Working on auth and admin dashboard <br>
 
-now - Streamlining tools and workflow
+now - Streamlining tools and workflow: vim, vscode devcontainers, unix-fu <br>
 
-now - Building with React, HTML Canvas, Remix, JS, Typescript <br>
+now - Building with Remix, React, Nodejs, Typescript<br>
 
-9 - Pursuing web development, prgramming, design <br>
-8 - Stumbled into Linux, OSS, FOSS, and FLOSS <br>
-7 - Went on 3 week solo road trip <br>
+now - Pursuing web development, prgramming, design <br>
+
+8 - Stumbled onto UNIX, OSS, FOSS, FLOSS <br>
+7 - Went on 3 week road trip <br>
 6 - Freelanced portrait and event photography <br>
 5 - Taught at a youth development non-profit photography program <br>
 4 - Snowboarded in Japan <br>
@@ -18,17 +19,13 @@ now - Building with React, HTML Canvas, Remix, JS, Typescript <br>
 0 - Gaming on PC since '97, console since '91
 
 - 🌐 I’m looking to contribute and collaborate on:
-  - civic, fitness, neuro/psych/wellness, e-commerce, apps and website dev/design
+  - civic, e-commerce
   - gamedev, realtime multiplayer
   - open source
   - photography
   
 - ⏫ I’m currently learning:
-  - Web Development, Web Design, Node, Javascript
-  - Computer Science
-  - HTML5 / phaser for gamedev and app interactivity
-
-<!---
-protofarer/protofarer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  - Web development and design
+  - Web performance and networking
+  - Reaper and sound design
+  - Websockets, Supabase Realtime
