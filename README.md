@@ -1,12 +1,8 @@
-now - Making chat server and online games using remix, react, supabase <br>
+now - Building web apps: blog, js checkers, js snake, user management, admin dashboard
 
-now - Working on auth and admin dashboard <br>
+now - Learning Lua, Love2D, C# <br>
 
-now - Streamlining tools and workflow: vim, vscode devcontainers, unix-fu <br>
-
-now - Building with Remix, React, Nodejs, Typescript<br>
-
-now - Pursuing web development, prgramming, design <br>
+now - Building on web with Remix, React, Node<br>
 
 8 - Stumbled onto UNIX, OSS, FOSS, FLOSS <br>
 7 - Went on 3 week road trip <br>
@@ -19,13 +15,5 @@ now - Pursuing web development, prgramming, design <br>
 0 - Gaming on PC since '97, console since '91
 
 - 🌐 I’m looking to contribute and collaborate on:
-  - civic, e-commerce
-  - gamedev, realtime multiplayer
-  - open source
-  - photography
-  
-- ⏫ I’m currently learning:
-  - Web development and design
-  - Web performance and networking
-  - Reaper and sound design
-  - Websockets, Supabase Realtime
+  - civic, e-commerce, simulations
+  - game dev and design, realtime multiplayer
