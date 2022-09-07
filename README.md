@@ -1,4 +1,4 @@
-[![protofarer's GitHub stats](https://github-readme-stats.vercel.app/api?username=protofarer&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![protofarer's GitHub stats](https://github-readme-stats.vercel.app/api?username=protofarer&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 now - Building web apps: blog, js checkers, js snake, user management, admin dashboard
 
