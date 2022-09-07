@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protofarer)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Codewars](https://github.r2v.ch/codewars?user=protofarer)(https://www.codewars.com/users/protofarer)]
+
 now - Building web apps: blog, js checkers, js snake, user management, admin dashboard
 
 now - Learning Lua, Love2D, C# <br>
