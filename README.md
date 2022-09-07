@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=pong-mg)](https://github.com/protofarer/pong-mg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protofarer)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protofarer)
 
 [![Codewars](https://github.r2v.ch/codewars?user=protofarer)](https://www.codewars.com/users/protofarer)
 
