@@ -10,9 +10,9 @@
 
 [![Codewars](https://github.r2v.ch/codewars?user=protofarer)](https://www.codewars.com/users/protofarer)
 
-now - Building web apps: blog, js checkers, js snake, user management, admin dashboard
+now - Building apps: blog, js checkers, js snake, user management, admin dashboard
 
-now - Learning Lua, Love2D, C# <br>
+now - Learning Lua, C# <br>
 
 now - Building on web with Remix, React, Node<br>
 
