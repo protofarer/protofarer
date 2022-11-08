@@ -10,8 +10,6 @@
 
 now - Making stuff: personal website and blog using remix, js checkers, js snake, web portal and chat with usr mgt
 
-now - Learning Lua, C#, Posix Shell <br>
-
 - 🌐 I’m looking to contribute and collaborate on:
   - civic, e-commerce
   - game dev and design, realtime multiplayer
