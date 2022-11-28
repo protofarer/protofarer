@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=checkers)](https://github.com/protofarer/checkers)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=kenny.net)](https://github.com/protofarer/kenny.net)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=chat)](https://github.com/protofarer/chat)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protofarer)
 
