@@ -12,4 +12,4 @@ now - Making stuff: personal website and blog using remix, js checkers, js snake
 
 - 🌐 I’m looking to contribute and collaborate on:
   - civic, e-commerce
-  - game dev and design, realtime multiplayer
+  - game dev/design, realtime multiplayer
