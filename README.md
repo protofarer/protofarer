@@ -8,8 +8,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protofarer)
 
-now - Making stuff: personal website and blog using remix, js checkers, js snake, web portal and chat with usr mgt
+now - Learning rust, building small websites, book search SPA, working toward an e-commerce site
 
-- 🌐 I’m looking to contribute and collaborate on:
+🌐 I’m looking to contribute and collaborate on:
   - civic, e-commerce
-  - game dev/design, realtime multiplayer
+  - game dev, realtime multiplayer, wasm
