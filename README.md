@@ -1,10 +1,10 @@
 [![protofarer's GitHub stats](https://github-readme-stats.vercel.app/api?username=protofarer&hide=stars&count_private=true&show_icons=true&custom_title=protofarer's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=snek)](https://github.com/protofarer/snek)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=checkers)](https://github.com/protofarer/checkers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=kenny.net)](https://github.com/protofarer/kenny.net)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=chat)](https://github.com/protofarer/chat)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protofarer&repo=snek)](https://github.com/protofarer/snek)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protofarer)
 
