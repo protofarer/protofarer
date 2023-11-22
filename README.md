@@ -1,11 +1,12 @@
-Working on:
-- 2d lan action game in rust
+Working on/Learning:
+- 2d networked multiplayer realtime game in rust
 - 3d rendering course in C
-- fast tiny websites
+- learn nextjs
+- learn astro
 - book search app
 
 On the horizon:
-- a multiplayer game over internet
+- internet multiplayer game back end
 - geo-localizing meditation scheduling program
 
 Beyond the horizon:
