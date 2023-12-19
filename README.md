@@ -1,13 +1,11 @@
 Working on/Learning:
-- 2d networked multiplayer realtime game in rust
+- 2d networked multiplayer action game in rust
 - 3d rendering course in C
-- learn nextjs
-- learn astro
+- remake personal site with astro and payloadcms
 - book search app
 
 On the horizon:
 - internet multiplayer game back end
-- geo-localizing meditation scheduling program
 
 Beyond the horizon:
 - rust risc-v mcu programming (microbit and sparkfun red-v thing plus)
@@ -17,3 +15,4 @@ Beyond the horizon:
 - punchomatic interval timer device
 - mandala experience system and generator
 - isometric rpg game or simulation
+- geo-localizing meditation scheduling program
