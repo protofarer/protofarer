@@ -8,6 +8,7 @@ On the horizon:
 - finish 3d rendering course in C
 
 Beyond the horizon:
+- multi-spectrum electromagnetic anomaly detection system
 - internet multiplayer game back end
 - rust risc-v mcu programming (microbit and sparkfun red-v thing plus)
 - line-follow robot with rust and risc-v
