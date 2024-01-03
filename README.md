@@ -1,11 +1,9 @@
 Working on/Learning:
-- nextjs front end
-- 2d networked multiplayer action game in rust
-- remake personal site with astro and payloadcms
-
-On the horizon:
-- book search app
-- finish 3d rendering course in C
+- nextjs
+- networked action game
+- ML / OpenCV
+- 3d software rendering course in C
+- crafting interpreters book by Nystrom
 
 Beyond the horizon:
 - multi-spectrum electromagnetic anomaly detection system
@@ -13,8 +11,8 @@ Beyond the horizon:
 - rust risc-v mcu programming (microbit and sparkfun red-v thing plus)
 - line-follow robot with rust and risc-v
 - rc car with telemetry
-- personal timer program
+- personal timer system
 - punchomatic interval timer device
 - mandala experience system and generator
-- isometric rpg game or simulation
-- geo-localizing meditation scheduling program
+- isometric game
+- meditation scheduling web app
