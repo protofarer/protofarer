@@ -1,9 +1,8 @@
 Working on/Learning:
 - Nextjs
 - Bevy -> networked games
-- Astro
 - 3d rendering in C
-- Odin
+- Odin + Raylib classic remakes and platformers
 
 Beyond the horizon:
 - rust risc-v mcu programming (microbit and sparkfun red-v thing plus)
