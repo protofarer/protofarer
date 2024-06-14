@@ -1,2 +1,1 @@
-- Nextjs
-- Odin language + gamedev
+
